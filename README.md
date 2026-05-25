@@ -199,10 +199,3 @@ Este projeto foi desenvolvido com fins educacionais para praticar:
 - Testes automatizados
 
 ---
-
-# 👨‍💻 Autor
-
-Paulo Ricardo Tebet Lyrio
-
-- GitHub: https://github.com/Paulouuul
-- LinkedIn: https://www.linkedin.com/in/paulo-ricardo-tebet-lyrio-8258b619b/
