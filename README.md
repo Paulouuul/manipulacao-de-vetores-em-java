@@ -61,7 +61,7 @@ Este projeto utiliza conceitos como:
 # 📂 Estrutura do Projeto
 
 ```text
-📦 projeto
+📦 manipulacao-de-vetores-em-java
  ┣ 📜 ListaManipulator.java
  ┣ 📜 Main.java
  ┣ 📜 TestJunit.java
